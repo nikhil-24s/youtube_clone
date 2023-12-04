@@ -62,7 +62,12 @@ html {
     padding-left: 100px;
     background-color: white;
 }
-
+.menu1{
+    display: none;
+    font-size: 1.8rem;
+    padding-left: 20px;
+    margin-top: -5px;
+}
 .logo>img {
     width: 120px;
 }
